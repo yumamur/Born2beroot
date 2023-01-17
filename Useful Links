@@ -1,7 +1,6 @@
 Partition & So
 		General Info	https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/index
-			*Boot Block		https://www.javatpoint.com/boot-block-and-bad-block-in-operating-system#:~:text=A%20boot%20block%20is%20a,computer%20system's%20built%2Din%20firmware.
-
+			*Boot Block		https://www.javatpoint.com/boot-block-and-bad-block-in-operating-system
 			parted			https://www.gnu.org/software/parted/manual/html_node/index.html
 			lvm				
 	File Systems
