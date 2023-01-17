@@ -1,0 +1,13 @@
+Partition & So
+		General Info	https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/index
+			*Boot Block		https://www.javatpoint.com/boot-block-and-bad-block-in-operating-system#:~:text=A%20boot%20block%20is%20a,computer%20system's%20built%2Din%20firmware.
+
+			parted			https://www.gnu.org/software/parted/manual/html_node/index.html
+			lvm				
+	File Systems
+		*ext2			https://www.nongnu.org/ext2-doc/ext2.pdf
+
+	Encryption
+		cryptsetup		
+						https://en.wikipedia.org/wiki/Copy-on-write
+		Final Form		https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system
