@@ -10,3 +10,5 @@ Partition & So
 		cryptsetup		
 						https://en.wikipedia.org/wiki/Copy-on-write
 		Final Form		https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system
+
+For Everything Else	https://www.gnu.org/
